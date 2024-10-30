@@ -168,7 +168,7 @@ Gamma: 0.1
 Best Grid Search Score: -0.2404809564950594
 Result after the 25% splitting: 0.1590114060994929
 
-** 5.2 Decision Trees**
+**5.2 Decision Trees**
 
 Hyper-parameters of a Decision Tree:
 Max depth: Helps prevent the depth of the tree from becoming too deep and controls overfitting.
