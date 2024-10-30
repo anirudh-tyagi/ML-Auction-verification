@@ -138,7 +138,7 @@ properly tuned, and may require more computational resources compared to simpler
 methods.
 Result: R² = 0.9783
 
-4. Results
+**4. Results**
 
 ● Top performers:
 1. Random Forest and Decision Tree both achieved the highest score of 0.99
